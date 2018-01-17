@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/grinchcoder/ws/phoenix_gen_socket_client/example/lib/example_web'
-let g:netrw_dirhist_2='/home/grinchcoder/ws/phoenix_gen_socket_client/example/lib/example_web/channels'
-let g:netrw_dirhist_3='/home/grinchcoder/ws/phoenix_gen_socket_client/example/lib/server/channels'
-let g:netrw_dirhist_4='/home/grinchcoder/ws/phoenix_gen_socket_client/example/lib/client'
-let g:netrw_dirhist_5='/home/grinchcoder/ws/phoenix_gen_socket_client/example/lib/server/channels'
