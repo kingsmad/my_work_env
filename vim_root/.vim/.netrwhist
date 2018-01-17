@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/juechenliu/.config/leetcode'
+let g:netrw_dirhist_2='/Users/juechenliu/.config/configstore'
+let g:netrw_dirhist_3='/Users/juechenliu/.config/leetcode'
