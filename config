@@ -1,0 +1,19 @@
+Host gitserver
+    User git
+    Hostname 104.196.208.142
+    IdentityFile ~/.ssh/gitserver_key
+    IdentitiesOnly yes
+Host ksvm
+    User grinchcoder
+    Hostname 104.196.208.142
+    IdentityFile ~/.ssh/gitserver_key
+    IdentitiesOnly yes
+Host thunder
+    User jueliu
+    Hostname thunder.cise.ufl.edu
+    IdentityFile ~/.ssh/thunder_key
+    IdentitiesOnly yes
+Host ksubuntu
+    User grinch
+    Hostname 127.0.0.1
+    Port 10022
